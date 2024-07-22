@@ -15,5 +15,5 @@
 
 ### Experiences
 
-- Developing production apps, from my company's [landing page](https://jforcell.com/) to internal systems.
+- Developing production apps, from company's [landing page](https://jforcell.com/) to internal systems.
 - Freelance experience in designing exhibition posters(@ In-Cosmetics Korea 2024).
