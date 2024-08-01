@@ -7,8 +7,8 @@
 
 ### Skills & Interests
 
-- 🌐 Web Development __ React(Next.js) & Storybook
-- 🎨 UI/UX Design __ Figma & XD
+- 🌐 Web __ React(Next.js) & Storybook
+- 🎨 UX __ Figma & XD
 - 📱 Apple  __ Swift & SwiftUI
 
 
