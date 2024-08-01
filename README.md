@@ -7,10 +7,9 @@
 
 ### Skills & Interests
 
-- 🌐 Web Development __ Next.js & Storybook
+- 🌐 Web Development __ React(Next.js) & Storybook
 - 🎨 UI/UX Design __ Figma & XD
-- 📱 iOS Development __ Swift & SwiftUI
-- Other: 📄 LaTeX, 🤤 Fan of Neovim
+- 📱 Apple  __ Swift & SwiftUI
 
 
 ### Experiences
