@@ -2,4 +2,4 @@
 ---
 *Department of Artificial Intelligence, SeoulTech*
 
-Machine learning and frontend systems.
+Machine learning and web systems.
