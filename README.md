@@ -1,4 +1,4 @@
-**Dohyeop Lim** · **임도협**
+**Dohyeop Lim**
 ---
 *Department of Artificial Intelligence, SeoulTech*
 
