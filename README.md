@@ -1,8 +1,8 @@
 ### 임도협 · Dohyeop Lim
 
-[Medium](https://dohyeoplim.medium.com/) · [Instagram](https://instagram.com/dohyeoplim)
+SeoulTech
 
-#### Activities
+[Medium](https://dohyeoplim.medium.com/) · [Instagram](https://instagram.com/dohyeoplim) · [Mail](mailto:dhlim0817@gmail.com)
 
 <table>
   <tr>
