@@ -6,7 +6,7 @@ SeoulTech
 
 <table>
   <tr>
-    <td><img height="14" alt="likelion" src="https://github.com/user-attachments/assets/d2959f57-6c1c-4cb8-9f1f-b4538bdd64d9" />  멋쟁이사자처럼대학 13기 Frontend</td>
+    <td><img height="14" alt="likelion" src="https://github.com/user-attachments/assets/d2959f57-6c1c-4cb8-9f1f-b4538bdd64d9" />  멋쟁이사자처럼대학 13기</td>
     <td>2025</td>
   </tr>
   <tr>
