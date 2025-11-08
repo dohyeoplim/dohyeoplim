@@ -26,7 +26,7 @@
       <img height="14" alt="GDG logo" src="https://github.com/user-attachments/assets/60548fcc-afa2-44f5-97b5-4d953cebbb35" />
       Google Developer Groups on Campus
     </td>
-    <td>Core Member of App Team</td>
+    <td>Core Member</td>
     <td>2025 - 2026</td>
   </tr>
   <tr>
