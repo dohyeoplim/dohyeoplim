@@ -1,6 +1,6 @@
-### 임도협 · Dohyeop Lim
+### Dohyeop Lim
 
-[Medium](https://dohyeoplim.medium.com/) · [Instagram](https://instagram.com/dohyeoplim) · [Mail](mailto:dhlim0817@gmail.com)
+[About Me](https://www.dohyeoplim.me/) · [Medium](https://dohyeoplim.medium.com/) · [Instagram](https://instagram.com/dohyeoplim)
 
 <table>
   <tr>
