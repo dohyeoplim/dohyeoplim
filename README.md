@@ -17,3 +17,14 @@
   </a>
 </p>
 
+<p align="center">
+  <a href="https://dohyeoplim.me">Website</a>  ·   
+  <a href="https://dohyeoplim.me/portfolio">Portfolio</a>  · 
+  <a href="https://cv.dohyeoplim.me">CV</a>
+</p>
+
+<p align="center">
+  <sub>
+    Designed & built by Dohyeop Lim.
+  </sub>
+</p>
