@@ -1,4 +1,4 @@
-I’m **Dohyeop Lim** *(pronounced “DOH-hyup”)*.
+I’m **Dohyeop Lim** 🇰🇷 *(pronounced “DOH-hyup”)*.
 
 I study multimodal learning and learning theory. Always happy to talk about good food or Formula 1 (🏎️ DU DU DU DU)!
 
