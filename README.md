@@ -1,24 +1,9 @@
-<p align="center">
-    <a href="https://dohyeoplim.me" target="_blank">
-    <picture>
-      <source
-        media="(prefers-color-scheme: dark)"
-        srcset="./assets/dark-2.svg"
-      >
-      <source
-        media="(prefers-color-scheme: light)"
-        srcset="./assets/light.svg"
-      >
-      <img
-        src="./assets/light.svg"
-        alt="Dohyeop Lim"
-      >
-    </picture>
-  </a>
-</p>
+I’m **Dohyeop Lim** *(pronounced “DOH-hyup”)*.
 
-<p align="center">
-  <a href="https://dohyeoplim.me">Website</a>  ·   
-  <a href="https://dohyeoplim.me/portfolio">Portfolio</a>  · 
+I study multimodal learning and learning theory. Always happy to talk about good food or Formula 1 (🏎️ DU DU DU DU)!
+
+<p>
+  <a href="https://dohyeoplim.me">Website</a> ·
+  <a href="https://dohyeoplim.me/portfolio">Portfolio</a> ·
   <a href="https://cv.dohyeoplim.me">CV</a>
 </p>
