@@ -10,7 +10,6 @@ I study multimodal learning and learning theory. Always happy to talk about good
 
 #### Research Projects
 
-- **E-ACT** | Enforcing structural constraints during CTC decoding ([code](https://github.com/dohyeoplim/E-ACT))
 - **Industrial OCR** | Reading and validating identifiers in real-world imagery (Private)
 - **Whisper-to-Normal Speech** | Speaker-preserving speech conversion (Private)
 
