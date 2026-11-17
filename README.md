@@ -33,5 +33,5 @@ I study multimodal learning and learning theory. Always happy to talk about good
 
 #### Community
 
-- **GDGoC SeoulTech** | 5th & 6th Core Member
 - **LIKELION University** | 13th Member, 14th Vice President
+- **GDGoC SeoulTech** | 5th & 6th Core Member
