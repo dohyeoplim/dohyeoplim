@@ -17,7 +17,7 @@ I study multimodal learning and learning theory. Always happy to talk about good
 
 - **[me](https://github.com/dohyeoplim/me)** | Personal website with a focus on frontend engineering
 - **[Collog](https://github.com/Collog-App)** | Family wellness insights from everyday voice conversations ([App Store](https://apps.apple.com/kr/app/%EC%BD%9C%EB%A1%9D/id6802965880))
-- **[jjo](https://github.com/line1thon-jjo/jjo-ios)** | Visual feedback on speaking habits and presentation skills
+- **[jjo](https://github.com/line1thon-jjo/jjo-ios)** | Visual feedback on speaking habits and presentation skills ([App Store](https://apps.apple.com/kr/app/jjo/id6835439317))
 - **[HyCrew](https://github.com/HMG-HyCrew)** | Shared travel memories and expense management ([Demo](https://youtu.be/eryaOaLgImw?si=Vs-o3KIJcW15x7SE))
 
 #### Team Projects
